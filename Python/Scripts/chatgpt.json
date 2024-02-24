@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "cosmic-signer-379311",
+    "private_key_id": "80619e71bf8524376e9bf94b88f5257b7c682429",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtiFg44iPxzW77\nHVRd/yXI5vpfXdUoEWp80u0oFeaijtJN0uI3G3QbFw1LopER+ukw3oeuXxTk3bZg\niJezpUczqRZTdoaecSoTTsimUPTdaP7t3gY7oqmdZYHnSI1q1+Y1bkDmtGuEck/d\nZ6rFnUM2fcfidPQaQ3UkbPY/vH3ISFjvKecCaZiONGfKgXIxhQjvexMcrafDzmd3\naF6IeFSM9fGWvsigt9D/w+Rao7g5X+eGcjNLlEHAkDXrnWfGKkBg7epVqUZemTAD\nJUwgur9CILVWKZeSp0vg02uL/xgtwNmQnwMLLmwFzSQxeQpm5KxN+437JWfEphID\nYik8Ekp/AgMBAAECggEAAPW4mzPxA/ThcMUkQtLW+CoC54Ui2TJjduZJxod8e5iz\npBePBcQCm+XAPpNbHxDWulz4viere2qYiCcpQ6ad4rTEOVj1/KlelLXCWV0oRZM/\nmbw5J5pKOuMlWUym75jbHp+J/1yvHY/uTii1Ipuwk/wVH3ULJpwJ6VYq9IZL4dA2\nTM8rAR58CSquZYTq78r2tFwAGR0GfKnV63w3RIStaenHyQxt5/p1zsExYnAwjGVg\nth1h+bKKwSSntIJqW+/fIgi3NeYxurUZRsfjM4G/ht1C3TONMCqdXnC7j3clStCL\nzU4PFXBnyiFHa3ov3y/ORHa19b7eJ96mfFYacly6yQKBgQDTNrNqZqmoJsdGiLUk\nG5ITb7U5VrYJ+8yzexDEuWHbYmQEPfDoW629WmATsjh01FW1zhWuZV08uDEnavFZ\nzIqllYE/hpIXxoAW5w7pTPQHv0sOXTL8/3ocI2vG8LpMXd1z29OMzzgX9nu9yh6Q\nmohN/x226n8V8h358Q8YdgsfeQKBgQDSVDQ8JA43+in+3Ut0En0GOE0ejFL/z4wP\nkOcipdBA9XeoQmg22GC8++ZddBt4px9N+UQXYW+M2MQmwCVDC3gB96tYzs3/s2iO\nxzoP7C0X1DK11EzWzTmFJuk7PedlFkUf5Z8MqF9kRw9VoHsRXmuVjhZj+/AwHB00\nrq+7WMtjtwKBgArldooVs8j1/y/XW6j6NyYDjFDh9VA8ikn0HmBXxAGiaNCDNYt3\nN1ZedDhv6FO2pJlVgW7W0eGRCxAih0L/t2NlfB5/3ceWOQN1diJ5EtnXd5LNIhVF\nRNJwzV2dC69m5EbW32oTQqyRzb5zz/Hb1w5XC/xkypuiOwOq+QFlDZvZAoGALNJA\n52gPl6I5/NQP1kZyWjb5SD9DGLyT7mVEvD91p8Ino7WzG6z0wJE1wEiT6hxDMYyj\nFBBxgyRWeKONzUHOayzqWNyJTapf571RBD+iRGe1/sWlMkk9rsBiB3vjqckbJfb6\n8+mVmnsCK48tasAiURaccuYngzkaiDWJwXTksvUCgYEAzs9w2CtshFnyisnYG68H\nD3RxiJzOGtBDR/17eVx6s+nIy5y3JfWIBZDmxiy9JbT6KJdyhgLyzU2RBo54Seur\n5zMIv8t3JXMyp6VnKJB1LhUpoRtTFjuWSngo4eWZL5L1FQ3Kkilx+MIGgGVIMWvZ\nu7OMAfaKZfxkN8toHuNYMbI=\n-----END PRIVATE KEY-----\n",
+    "client_email": "jaks-external@cosmic-signer-379311.iam.gserviceaccount.com",
+    "client_id": "105761886008356507840",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jaks-external%40cosmic-signer-379311.iam.gserviceaccount.com"
+  }
+  
